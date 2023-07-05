@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Acesse o projeto finalizado, online](https://andressabocz.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://AndressaBocz.github.io/devlinks)
 
 ## :memo: Licença
 
